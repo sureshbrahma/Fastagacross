@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "androidfastrack",
+  "private_key_id": "aa32e2e5db9c40579185e4aeaed8a7593b953a88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZ6BYIgke7j7as\nCKWgyS8KJW0WjLcF1gZsSn++G0md4epj3TKXkOAayWaJ1vzGsW8yR2UlPSvmOhj9\nUFCSPy5YZjXYF4dyx9mrOQUraX8XfUfVvwDRBvjT5hwOl0QcFMnqUcU58svIDu7z\nF51DnPAgwL3kuxhvHgUtHm8zfuvLBLh7ggPg4f9WdfOP5Ud4bh167CK2pJ/jJxUV\nJyHLHvvyUE3JBcJs/WHNHZsUtcKfaQnZoh0208DbZqL4dZGLWHy5gap4b59uC7vk\nO/aSOCTdNXOGvLa3kudsudezr2qg0GuM4sj0b7986xjOuBS5q9e2jB9W9ggKTlSf\n1kxp0+rlAgMBAAECggEAA0H/p2X0lUKNRBZ5xQ3FJmKU7M+FN0UoxSWNjy1eMU6d\nKsh9n+oz6DU/q6bGmoEagLa0rCVflsO/kCshTXszZLEjLiQPXK1gzOhL1PeqdkmT\nWfGtV39diIS8Ls3iZfLFtGVPNrMOP7mbMr+a91ms1pCl5F/WfFGnG+WjRnSHErjK\nNHMvtIkwXgatKcJ8+UAEvgMRmBd2gIDaiVt5Tad/2BIJ7Wmmd+M2r1yKhX9YYxCW\nlnqXJ3sT94azBojdeOaRiGSiteXo+idiqfUNLvXxg1puRpcZdmygaPAnAD2k03bC\nc1n61gFnmGHFucBMNd0fTAcGNVVnHGmIaVeZEbEFqQKBgQDJNUCpTAgz61PpLCuy\nNi8Kq7g+1Cwh47tDGvWAKDFtrSAtuPIJdY9QKwHw0CnI1UgQwb40WlV9oJ5HPV9f\npBjslifQCx3VhJpRZK3RkbQotaHDKmJtScp+RwvlqrB0Wu/TK1J6N82iYHTokSae\npZezCYhYHeIk6AkPFmD1H54CWQKBgQDD0VMWQu9+404cNZAE3DLNmiMIEhImElzp\nVBukSeD2GyKP5tGKo/w96I9MszOmTYY1v2rrqZBnMfyG3pWSIwfv65bqhZBeutOT\n3R9NvIk/x3Fu8DDBjvuyWcD2zoRTB4itxFmyKMYsGR5IUX52AKQNlLwiUY34HPBH\nRFjkdDjjbQKBgDT+ZppwYRSznXUjYhrc9ITd93fsz/bZESA6gICRlXsqhvgj5vOg\n1+8odKllWiwAKKvpK1yEklG1NRrUSkNZaAsf/TppQyFSfIaFetZghs/WDtXlWukn\n70JVGggSbcknjlTS6zUvb2Sd/Qyn9kEAojTQhO2YaVCJIKGtpjnJawd5AoGBAIXj\n++bNz8o4C/GX4iigk5Ano2piSMyFY8gavWfBKDO+7Avu7Dna1J9UA5+TLG66tVjM\n0IPghh85e4yQZz7r+wJeWOt0dfl/zylcWYoirsnQSkxrqTq/1HPnkNxw6uOG1DrU\ndewumwoOBrm2Fz0CRSoQF+9zShprVxOztQBIQ5mlAoGAfag1dW1AGf4bZYPSGxAO\nYjv27kZnHhDEgH36iAA1zCycOkkk0HaYU4wwiPO/zfrRnWBwkw7zVyl5Jd9817+Y\nDGKHuHu3ZpbSdc71YlWHgiHYMcfP5fAZxG3Ea4B+FoygVru2yJHYM+a7OV+zVCDS\nREd+UoEGxzXyWFZhElY9OHY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "androidfastrack@androidfastrack.iam.gserviceaccount.com",
+  "client_id": "100719660462299071577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/androidfastrack%40androidfastrack.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

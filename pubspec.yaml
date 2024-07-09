@@ -1,0 +1,48 @@
+name: BKACCFASTAG
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^0.13.3
+  intl: ^0.17.0
+  dart_jsonwebtoken: ^2.0.0
+  crypto: ^3.0.1
+  fluttertoast: ^8.0.9
+  path_provider: ^2.0.2
+  permission_handler: ^10.0.0
+  image: ^3.0.1
+  flutter_launcher_icons: ^0.9.2
+
+  googleapis:
+  googleapis_auth:
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "assets/icon.png"
+  adaptive_icon_foreground: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/shiva2.png
+    - assets/welcome_image.jpg
+    - assets/androidfastrack-aa32e2e5db9c.json
+    - assets/ic_launcher.png
+    - assets/background.jpg
